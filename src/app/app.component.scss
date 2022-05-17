@@ -1,0 +1,11 @@
+.cardContainer {
+  background-color: rgb(75, 107, 99);
+  mat-card {
+    margin: 2em 3em;
+  }
+}
+.inputContainer {
+  .mat-form-field {
+    width: 100%;
+  }
+}
